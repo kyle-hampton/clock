@@ -47,7 +47,7 @@ function createModal(){
 }
 
 function start() {
-  setTimeout(createModal, 000)
+  setTimeout(createModal, 3000)
 
 }
 window.addEventListener('load', start)
